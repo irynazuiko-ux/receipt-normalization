@@ -1,0 +1,2 @@
+CMake Error: The source directory "D:/AndroidStudioProjects/ReceiptNormalization/sdk/libcxx_helper" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
